@@ -1,0 +1,566 @@
+[
+  {
+    "id": 123,
+    "imgUrl": "https://links.papareact.com/wru",
+    "title": "Yo! Sushi",
+    "rating": 4.5,
+    "genre": "Japanese",
+    "address": "123 Main St",
+    "short_description": "Yo! Sushi is a vibrant Japanese restaurant, offering an exciting fusion of traditional and contemporary flavors. Delight in an array of fresh sushi, sashimi, and delectable dishes, served in a lively, interactive conveyor belt setting, immersing diners in an unforgettable dining experience.",
+    "deshes": [
+      {
+        "id": 1,
+        "name": "Sushi",
+        "short_description": "Delicious bite-sized art: Fresh fish, sticky rice, and vibrant flavors rolled into exquisite sushi creations for an unforgettable experience.",
+        "price": 100,
+        "image": "https://links.papareact.com/wru"
+      },
+      {
+        "id": 2,
+        "name": "Sashimi",
+        "short_description": "Pure elegance on a plate: Finely sliced, premium-grade fish, skillfully presented to savor the delicate flavors of sashimi.",
+        "price": 200,
+        "image": "https://links.papareact.com/wru"
+      },
+      {
+        "id": 3,
+        "name": "Salmon",
+        "short_description": "Luscious and nutritious, salmon is a rich, flavorful fish loved for its versatility and health benefits.",
+        "price": 190,
+        "image": "https://links.papareact.com/wru"
+      },
+      {
+        "id": 4,
+        "name": "Tofu Curry",
+        "short_description": "A harmonious fusion of silky tofu and aromatic spices, creating a delectable and comforting curry dish.",
+        "price": 10,
+        "image": "https://links.papareact.com/wru"
+      },
+      {
+        "id": 5,
+        "name": "Dumplings",
+        "short_description": "Bite-sized bundles of joy: Dumplings, filled with savory goodness, offering a burst of flavor in every bite.",
+        "price": 10,
+        "image": "https://links.papareact.com/wru"
+      }
+    ],
+    "long": 0,
+    "lat": 0
+  },
+  {
+    "id": 124,
+    "imgUrl": "https://links.papareact.com/wru",
+    "title": "Maharani",
+    "rating": 4.7,
+    "genre": "Indian",
+    "address": "187 Cross st",
+    "short_description": "Experience regal North Indian cuisine at Maharani. With a menu fit for royalty, indulge in rich curries, tandoori delicacies, and aromatic biryanis. Immerse yourself in an opulent ambiance and savor the authentic flavors of India.",
+    "deshes": [
+      {
+        "id": 1,
+        "name": "Paneer Butter Masala",
+        "short_description": "Creamy, flavorful Indian delight: Paneer Butter Masala, a vegetarian dish loved for its richness and spices.",
+        "price": 100,
+        "image": "https://links.papareact.com/wru"
+      },
+      {
+        "id": 2,
+        "name": "Garlic Naan",
+        "short_description": "Buttery and aromatic: Garlic Naan, a popular Indian bread infused with garlic flavor, perfect for dipping.",
+        "price": 20,
+        "image": "https://links.papareact.com/wru"
+      },
+      {
+        "id": 3,
+        "name": "Butter Roti",
+        "short_description": "Soft and buttery Indian staple: Butter Roti, a comforting flatbread complementing any dish with delight.",
+        "price": 19,
+        "image": "https://links.papareact.com/wru"
+      },
+      {
+        "id": 4,
+        "name": "Gobi Fry",
+        "short_description": "Crunchy and spiced: Gobi Fry, a delightful Indian appetizer featuring crispy cauliflower florets bursting with flavor.",
+        "price": 110,
+        "image": "https://links.papareact.com/wru"
+      },
+      {
+        "id": 5,
+        "name": "Dal Thadka",
+        "short_description": "Hearty and aromatic: Dal Tadka, a flavorful Indian lentil dish tempered with spices and herbs.",
+        "price": 90,
+        "image": "https://links.papareact.com/wru"
+      },
+      {
+        "id": 6,
+        "name": "Lassi",
+        "short_description": "Refreshing and creamy: Lassi, a traditional Indian yogurt-based drink, a perfect balance of sweet and tangy.",
+        "price": 50,
+        "image": "https://links.papareact.com/wru"
+      }
+    ],
+    "long": 0,
+    "lat": 0
+  },
+  {
+    "id": 125,
+    "imgUrl": "https://links.papareact.com/wru",
+    "title": "Saranga Bojan",
+    "rating": 4.9,
+    "genre": "South Indian",
+    "address": "390 West St",
+    "short_description": "Saranga Bojan, a South Indian delight, invites you on a culinary journey through the flavors of the region. Revel in dosas, idlis, and spicy curries, served with warm hospitality in a vibrant setting.",
+    "deshes": [
+      {
+        "id": 1,
+        "name": "Idli",
+        "short_description": "Steamed and spongy: Idli, a popular South Indian dish made from fermented rice and lentil batter.",
+        "price": 60,
+        "image": "https://links.papareact.com/wru"
+      },
+      {
+        "id": 2,
+        "name": "Onion Dosa",
+        "short_description": "Thin, savory, and aromatic: Onion Dosa, a delightful South Indian crepe with a delicious onion twist.",
+        "price": 80,
+        "image": "https://links.papareact.com/wru"
+      },
+      {
+        "id": 3,
+        "name": "Masala Dosa",
+        "short_description": "Crispy and flavorful: Masala Dosa, a beloved South Indian delicacy with a spiced potato filling.",
+        "price": 70,
+        "image": "https://links.papareact.com/wru"
+      },
+      {
+        "id": 4,
+        "name": "Upma",
+        "short_description": "Hearty and comforting: Upma, a flavorful South Indian breakfast dish made from semolina and spices.",
+        "price": 50,
+        "image": "https://links.papareact.com/wru"
+      },
+      {
+        "id": 5,
+        "name": "Mango Juice",
+        "short_description": "Tropical delight in a glass: Mango juice, a luscious and refreshing beverage bursting with natural sweetness.",
+        "price": 30,
+        "image": "https://links.papareact.com/wru"
+      }
+    ],
+    "long": 0,
+    "lat": 0
+  },
+  {
+    "id": 126,
+    "imgUrl": "https://links.papareact.com/wru",
+    "title": "McDonalds",
+    "rating": 3.9,
+    "genre": "Fast Food",
+    "address": "430 Main St",
+    "short_description": "Quick bites, big flavors: Mcdonads serving a diverse range of tasty burgurs and convenient meals.",
+    "deshes": [
+      {
+        "id": 1,
+        "name": "McAloo Tikki",
+        "short_description": "Indian twist on a classic: McAloo Tikki, a flavorful potato and pea patty burger by McDonald's.",
+        "price": 40,
+        "image": "https://links.papareact.com/wru"
+      },
+      {
+        "id": 2,
+        "name": "HamBurger",
+        "short_description": "All-American classic: McDonald's hamburger, a delicious and iconic fast-food choice loved worldwide.",
+        "price": 35,
+        "image": "https://links.papareact.com/wru"
+      },
+      {
+        "id": 3,
+        "name": "Fries",
+        "short_description": "Golden and crispy: McDonald's fries, the perfect side dish for a savory indulgence.",
+        "price": 19,
+        "image": "https://links.papareact.com/wru"
+      },
+      {
+        "id": 4,
+        "name": "Coke",
+        "short_description": "Refreshing cola bliss: McDonald's Coke, the perfect thirst-quenching companion to your meal.",
+        "price": 10,
+        "image": "https://links.papareact.com/wru"
+      },
+      {
+        "id": 5,
+        "name": "Chicken Nuggets",
+        "short_description": "Crunchy and savory: McDonald's Chicken Nuggets, a bite-sized delight loved by both kids and adults.",
+        "price": 10,
+        "image": "https://links.papareact.com/wru"
+      },
+      {
+        "id": 6,
+        "name": "McOreo Shake",
+        "short_description": "Indulgent dessert bliss: McOreo, a heavenly McDonald's treat featuring Oreo cookies in delightful combinations.",
+        "price": 45,
+        "image": "https://links.papareact.com/wru"
+      }
+    ],
+    "long": 0,
+    "lat": 0
+  },
+  {
+    "id": 127,
+    "imgUrl": "https://links.papareact.com/wru",
+    "title": "Dominos",
+    "rating": 2.5,
+    "genre": "Pizza/Fast Food",
+    "address": "903 Main St",
+    "short_description": "Domino's Pizza, a global sensation, serves up delicious and fresh pizzas with a variety of toppings. Enjoy quick delivery, convenience, and the joy of sharing mouthwatering slices with friends and family.",
+    "deshes": [
+      {
+        "id": 1,
+        "name": "Vegetable Pizza",
+        "short_description": "Veggie-loaded delight: Vegetable pizza, a flavorful medley of fresh toppings on a crispy crust.",
+        "price": 29,
+        "image": "https://links.papareact.com/wru"
+      },
+      {
+        "id": 2,
+        "name": "Margarita",
+        "short_description": "Simple and classic: Margherita pizza, a mouthwatering blend of tomatoes, mozzarella, and basil on thin crust.",
+        "price": 25,
+        "image": "https://links.papareact.com/wru"
+      },
+      {
+        "id": 3,
+        "name": "Pizza Burger",
+        "short_description": "A scrumptious fusion: Pizza Burger, where the best of pizzas and burgers unite in delicious harmony.",
+        "price": 50,
+        "image": "https://links.papareact.com/wru"
+      },
+      {
+        "id": 4,
+        "name": "Bread Sticks",
+        "short_description": "Crunchy and savory: Bread sticks, a delightful accompaniment to savor with dips and sauces.",
+        "price": 15,
+        "image": "https://links.papareact.com/wru"
+      },
+      {
+        "id": 5,
+        "name": "Chiken Pizza",
+        "short_description": "Savory poultry perfection: Chicken pizza, a flavorful combination of succulent chicken and delicious toppings.",
+        "price": 40,
+        "image": "https://links.papareact.com/wru"
+      }
+    ],
+    "long": 0,
+    "lat": 0
+  },
+  {
+    "id": 128,
+    "imgUrl": "https://links.papareact.com/wru",
+    "title": "Chaat Time",
+    "rating": 4.7,
+    "genre": "Indian Street Food",
+    "address": "197 Cross st",
+    "short_description": "Step into a world of tantalizing flavors at Chaat Time, an Indian chaat restaurant. Indulge in an explosion of tastes with savory and spicy chaats, crisp samosas, and refreshing beverages, all in a vibrant and inviting ambiance.",
+    "deshes": [
+      {
+        "id": 1,
+        "name": "Paani Puri",
+        "short_description": "Tangy and delightful: Paani Puri, a popular Indian street food, bursting with spicy and savory fillings.",
+        "price": 10,
+        "image": "https://links.papareact.com/wru"
+      },
+      {
+        "id": 2,
+        "name": "Bhel Puri",
+        "short_description": "Crunchy and zesty: Bhel Puri, a delightful Indian snack with puffed rice, chutneys, and veggies.",
+        "price": 20,
+        "image": "https://links.papareact.com/wru"
+      },
+      {
+        "id": 3,
+        "name": "Dahi Puri",
+        "short_description": "Cool and refreshing: Dahi Puri, a mouthwatering Indian snack with yogurt, chutney, and crispy toppings.",
+        "price": 19,
+        "image": "https://links.papareact.com/wru"
+      },
+      {
+        "id": 4,
+        "name": "Vada Pav",
+        "short_description": "Spicy and satisfying: Vada Pav, a beloved Indian street food, with a fried potato patty in a bun.",
+        "price": 20,
+        "image": "https://links.papareact.com/wru"
+      },
+      {
+        "id": 5,
+        "name": "Pav Bhajji",
+        "short_description": "Buttery and flavorful: Pav Bhaji, a popular Indian street food featuring spicy vegetable mash served with soft buns.",
+        "price": 25,
+        "image": "https://links.papareact.com/wru"
+      },
+      {
+        "id": 6,
+        "name": "Mixed Chaat",
+        "short_description": "Chaat medley delight: Mixed Chaat, a delicious assortment of savory, tangy, and crunchy Indian snacks.",
+        "price": 35,
+        "image": "https://links.papareact.com/wru"
+      }
+    ],
+    "long": 0,
+    "lat": 0
+  },
+  {
+    "id": 129,
+    "imgUrl": "https://links.papareact.com/wru",
+    "title": "Chipotle Mexican Grill",
+    "rating": 4.8,
+    "genre": "Mexican",
+    "address": "390 Frances St",
+    "short_description": "Chipotle Mexican Grill, a taste of fresh, customizable Mexican cuisine. Enjoy flavorful burritos, bowls, tacos, and salads, featuring responsibly sourced ingredients and a variety of mouthwatering salsas and toppings, all prepared with speed and passion.",
+    "deshes": [
+      {
+        "id": 1,
+        "name": "Chicken Bowl",
+        "short_description": "Hearty and flavorful: Chipotle's Chicken Bowl, a delicious blend of grilled chicken, rice, beans, and toppings.",
+        "price": 40,
+        "image": "https://links.papareact.com/wru"
+      },
+      {
+        "id": 2,
+        "name": "All Veg Burrito",
+        "short_description": "Veggie-packed goodness: Chipotle's Veg Burrito, a delectable blend of fresh vegetables, rice, beans, and salsa.",
+        "price": 45,
+        "image": "https://links.papareact.com/wru"
+      },
+      {
+        "id": 3,
+        "name": "Chips",
+        "short_description": "Crunchy and addictive: Chipotle's chips, a perfect side for savoring with salsa or guacamole",
+        "price": 15,
+        "image": "https://links.papareact.com/wru"
+      },
+      {
+        "id": 4,
+        "name": "Quesadillas",
+        "short_description": "Cheesy and savory: Chipotle's Quesadillas, a scrumptious blend of melted cheese and delicious fillings.",
+        "price": 30,
+        "image": "https://links.papareact.com/wru"
+      },
+      {
+        "id": 5,
+        "name": "Tacos",
+        "short_description": "Mexican flavors wrapped: Chipotle's Tacos, a delightful fusion of tender meat, toppings, and tortillas.",
+        "price": 25,
+        "image": "https://links.papareact.com/wru"
+      }
+    ],
+    "long": 0,
+    "lat": 0
+  },
+  {
+    "id": 130,
+    "imgUrl": "https://links.papareact.com/wru",
+    "title": "Starbucks",
+    "rating": 4.4,
+    "genre": "Beverages",
+    "address": "530 Main St",
+    "short_description": "Starbucks, a global coffeehouse chain, brewing the finest coffees and teas. Indulge in a variety of beverages, pastries, and sandwiches, while enjoying a cozy ambiance or a grab-and-go experience at their numerous locations worldwide.",
+    "deshes": [
+      {
+        "id": 1,
+        "name": "Tea Latte",
+        "short_description": "Creamy and soothing: Tea Latte, a comforting blend of steeped tea and velvety milk.",
+        "price": 25,
+        "image": "https://links.papareact.com/wru"
+      },
+      {
+        "id": 2,
+        "name": "Caramel Frappuccino",
+        "short_description": "Iced caramel delight: Caramel Frappuccino, a sweet and creamy blended coffee beverage topped with caramel drizzle.",
+        "price": 35,
+        "image": "https://links.papareact.com/wru"
+      },
+      {
+        "id": 3,
+        "name": "Hot Chocolate",
+        "short_description": "Warm and indulgent: Hot Chocolate, a velvety cocoa delight, perfect for a cozy treat.",
+        "price": 19,
+        "image": "https://links.papareact.com/wru"
+      },
+      {
+        "id": 4,
+        "name": "Americano",
+        "short_description": "Bold and smooth: Americano, a rich espresso diluted with hot water, delivering pure coffee goodness.",
+        "price": 10,
+        "image": "https://links.papareact.com/wru"
+      },
+      {
+        "id": 5,
+        "name": "Expresso",
+        "short_description": "Intense and concentrated: Espresso, a powerful shot of coffee, the heart of many coffee creations.",
+        "price": 10,
+        "image": "https://links.papareact.com/wru"
+      },
+      {
+        "id": 6,
+        "name": "Lime Mint Cooler",
+        "short_description": "Refreshing citrus twist: Lime Mint Cooler, a thirst-quenching blend of zesty lime and cooling mint.",
+        "price": 45,
+        "image": "https://links.papareact.com/wru"
+      }
+    ],
+    "long": 0,
+    "lat": 0
+  },
+  {
+    "id": 131,
+    "imgUrl": "https://links.papareact.com/wru",
+    "title": "Subway",
+    "rating": 4.9,
+    "genre": "Sandwiches",
+    "address": "223 Main St",
+    "short_description": "Subway, the world's largest fast-food submarine sandwich chain, offers a fresh and customizable menu. Choose from an array of delicious subs, salads, and wraps, prepared with high-quality ingredients, providing a healthier and tasty dining experience.",
+    "deshes": [
+      {
+        "id": 1,
+        "name": "Italian BMT",
+        "short_description": "Savory and hearty: Italian BMT, a Subway classic filled with flavorful Italian meats, cheese, and veggies.",
+        "price": 60,
+        "image": "https://links.papareact.com/wru"
+      },
+      {
+        "id": 2,
+        "name": "Chicken Teriyaki",
+        "short_description": "Sweet and savory delight: Chicken Teriyaki, a Subway favorite featuring tender grilled chicken with teriyaki sauce.",
+        "price": 55,
+        "image": "https://links.papareact.com/wru"
+      },
+      {
+        "id": 3,
+        "name": "Veggie Delight",
+        "short_description": "Fresh and wholesome: Veggie Delight, a delicious Subway sub packed with a variety of crisp vegetables.",
+        "price": 40,
+        "image": "https://links.papareact.com/wru"
+      },
+      {
+        "id": 4,
+        "name": "Aloo Patty",
+        "short_description": "Satisfying and flavorful: Aloo Patty, a delicious Subway sandwich with a spiced potato patty filling.",
+        "price": 45,
+        "image": "https://links.papareact.com/wru"
+      },
+      {
+        "id": 5,
+        "name": "Meatball Marinara",
+        "short_description": "Hearty and comforting: Meatball Marinara, a Subway classic featuring tender meatballs in rich marinara sauce.",
+        "price": 70,
+        "image": "https://links.papareact.com/wru"
+      }
+    ],
+    "long": 0,
+    "lat": 0
+  },
+  
+  {
+    "id": 133,
+    "imgUrl": "https://links.papareact.com/wru",
+    "title": "Dunkin' Donut",
+    "rating": 4.3,
+    "genre": "Beverages",
+    "address": "390 North St",
+    "short_description": "Dunkin' Donuts, a beloved global brand, brings joy with its extensive menu. Savor a diverse range of freshly brewed coffees, delectable donuts, bagels, and satisfying breakfast sandwiches, making every visit a delightful experience.",
+    "deshes": [
+      {
+        "id": 1,
+        "name": "Americano",
+        "short_description": "Bold and smooth: Dunkin' Donuts' Americano, a rich espresso diluted with hot water, delivering pure coffee goodness.",
+        "price": 35,
+        "image": "https://links.papareact.com/wru"
+      },
+      {
+        "id": 2,
+        "name": "Glazed Donuts",
+        "short_description": "Sweet and delightful: Dunkin' Donuts' Glazed Donuts, a classic treat with a mouthwatering sugary glaze.",
+        "price": 40,
+        "image": "https://links.papareact.com/wru"
+      },
+      {
+        "id": 3,
+        "name": "Muffins",
+        "short_description": "Moist and flavorful: Dunkin' Donuts' Muffins, a delightful assortment of sweet and savory options.",
+        "price": 20,
+        "image": "https://links.papareact.com/wru"
+      },
+      {
+        "id": 4,
+        "name": "Chocolate Bagel",
+        "short_description": "Decadent morning delight: Dunkin' Donuts' Chocolate Bagel, a rich and chocolaty twist to breakfast.",
+        "price": 26,
+        "image": "https://links.papareact.com/wru"
+      },
+      {
+        "id": 5,
+        "name": "Expresso",
+        "short_description": "Intense and bold: Dunkin' Donuts' Espresso, a concentrated shot of robust coffee for a pick-me-up.",
+        "price": 15,
+        "image": "https://links.papareact.com/wru"
+      }
+    ],
+    "long": 0,
+    "lat": 0
+  },
+  {
+    "id": 134,
+    "imgUrl": "https://links.papareact.com/wru",
+    "title": "Panera Bread",
+    "rating": 3.9,
+    "genre": "Continental",
+    "address": "830 Main St",
+    "short_description": "Panera Bread, a beloved bakery-café chain, elevates dining with a menu focused on fresh ingredients and wholesome options. Delight in a wide array of sandwiches, soups, salads, complemented by freshly brewed coffees and teas, creating a comforting and satisfying dining experience.",
+    "deshes": [
+      {
+        "id": 1,
+        "name": "Chipotle Chicken Avocado Melt",
+        "short_description": "Zesty and creamy: Chipotle Chicken Avocado Melt, a delectable sandwich with grilled chicken, chipotle sauce, and avocado.",
+        "price": 60,
+        "image": "https://links.papareact.com/wru"
+      },
+      {
+        "id": 2,
+        "name": "Strawberry Poppyseed Salad",
+        "short_description": "Fresh and fruity delight: Strawberry Poppyseed Salad, a refreshing mix of greens, strawberries, and poppyseed dressing.",
+        "price": 55,
+        "image": "https://links.papareact.com/wru"
+      },
+      {
+        "id": 3,
+        "name": "Chicken Caesar Salad",
+        "short_description": "Crisp and savory: Chicken Caesar Salad, a classic blend of romaine, grilled chicken, croutons, and Caesar dressing.",
+        "price": 39,
+        "image": "https://links.papareact.com/wru"
+      },
+      {
+        "id": 4,
+        "name": "Chicken Soup",
+        "short_description": "Warm and comforting: Chicken Soup, a hearty blend of tender chicken, vegetables, and flavorful broth.",
+        "price": 50,
+        "image": "https://links.papareact.com/wru"
+      },
+      {
+        "id": 5,
+        "name": "Tomato Basil Bread",
+        "short_description": "Aromatic and savory: Tomato Basil Bread, a delightful artisanal loaf infused with rich tomato and basil flavors.",
+        "price": 40,
+        "image": "https://links.papareact.com/wru"
+      },
+      {
+        "id": 6,
+        "name": "Iced Green Tea",
+        "short_description": "Refreshing and revitalizing: Iced Green Tea, a cool and soothing beverage packed with natural antioxidants.",
+        "price": 25,
+        "image": "https://links.papareact.com/wru"
+      }
+    ],
+    "long": 0,
+    "lat": 0
+  }
+]
