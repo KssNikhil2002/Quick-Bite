@@ -10,7 +10,6 @@ import {
 } from "react-native-heroicons/solid";
 import Categories from "../components/categories";
 import FeaturedRow from "../components/FeaturedRow";
-
 import SearchFilter from "../components/SearchFilter";
 
 const HomeScreen = () => {
@@ -26,10 +25,8 @@ const HomeScreen = () => {
     <SafeAreaView className=" bg-[#355C7D] pt-5">
       <View className="flex-row pb-3 items-center mx-4 space-x-2 pl-2">
         <Image
-          source={{
-            uri: "https://links.papareact.com/wru",
-          }}
-          className="h-7 w-7 bg-white p-4 rounded-full "
+          source={require('../assets/logo.png')}
+          className="h-9 w-9 bg-white p-4 rounded-full "
         />
 
         <View className="flex-1">

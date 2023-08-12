@@ -35,7 +35,7 @@ const RestrauntCard = ({
     }}
     className="bg-white mr-3 shadow">
         <Image
-        source={{uri: imgUrl}}
+        source={{ uri: imgUrl}}
         className=" h-32 w-64 rounded-sm"/>
 
         <View className="px-3 pb-4">

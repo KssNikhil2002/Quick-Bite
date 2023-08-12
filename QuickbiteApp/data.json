@@ -1,0 +1,613 @@
+[
+  {
+    "id": 123,
+    "imgUrl": "https://www.schoolphotoproject.com/_picture-of-logos-brands/subway-logo-photo2-l.jpg",
+    "title": "Subway",
+    "rating": 4.9,
+    "genre": "Sandwiches",
+    "address": "223 Main St",
+    "short_description": "Subway, the world's largest fast-food submarine sandwich chain, offers a fresh and customizable menu. Choose from an array of delicious subs, salads, and wraps, prepared with high-quality ingredients, providing a healthier and tasty dining experience.",
+    "deshes": [
+      {
+        "id": 1,
+        "name": "Italian BMT",
+        "short_description": "Savory and hearty: Italian BMT, a Subway classic filled with flavorful Italian meats, cheese, and veggies.",
+        "price": 60,
+        "image": "https://mysubway.ro/wp-content/uploads/2019/08/Italian-BMT-02.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Chicken Teriyaki",
+        "short_description": "Sweet and savory delight: Chicken Teriyaki, a Subway favorite featuring tender grilled chicken with teriyaki sauce.",
+        "price": 55,
+        "image": "https://i.ytimg.com/vi/oSRzHXFbx6c/maxresdefault.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Veggie Delight",
+        "short_description": "Fresh and wholesome: Veggie Delight, a delicious Subway sub packed with a variety of crisp vegetables.",
+        "price": 40,
+        "image": "https://www.subway.com.hk/wp-content/uploads/2017/07/vd-450x450.png"
+      },
+      {
+        "id": 4,
+        "name": "Cookie",
+        "short_description": "Sweet, chocolaty and filling chocolate chip cookie",
+        "price": 45,
+        "image": "https://www.sprinklesandsprouts.com/wp-content/uploads/2022/08/Subway-Style-Choc-Chip-Cookies-SQ.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Meatball Marinara",
+        "short_description": "Hearty and comforting: Meatball Marinara, a Subway classic featuring tender meatballs in rich marinara sauce.",
+        "price": 70,
+        "image": "https://cdn.vox-cdn.com/thumbor/ftzL6fne6eWRijLfsYzpEM2BTo0=/0x0:1000x749/1200x800/filters:focal(419x335:579x495)/cdn.vox-cdn.com/uploads/chorus_image/image/64929552/Beyond_Sub.0.jpg"
+      }
+    ],
+    "long": 0,
+    "lat": 0
+  },
+  {
+    "id": 124,
+    "imgUrl": "https://logos-world.net/wp-content/uploads/2020/06/Chipotle-Logo.png",
+    "title": "Chipotle Mexican Grill",
+    "rating": 4.8,
+    "genre": "Mexican",
+    "address": "390 Frances St",
+    "short_description": "Chipotle Mexican Grill, a taste of fresh, customizable Mexican cuisine. Enjoy flavorful burritos, bowls, tacos, and salads, featuring responsibly sourced ingredients and a variety of mouthwatering salsas and toppings, all prepared with speed and passion.",
+    "deshes": [
+      {
+        "id": 1,
+        "name": "Chicken Bowl",
+        "short_description": "Hearty and flavorful: Chipotle's Chicken Bowl, a delicious blend of grilled chicken, rice, beans, and toppings.",
+        "price": 40,
+        "image": "https://www.thespruceeats.com/thmb/XqGafZJmPK9prSBMa3H0JqsCa-Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/copycat-chipotle-chicken-burrito-bowl-4173869-hero-01-12a58fec59284f0cac31a49a80380fcd.jpg"
+      },
+      {
+        "id": 2,
+        "name": "All Veg Burrito",
+        "short_description": "Veggie-packed goodness: Chipotle's Veg Burrito, a delectable blend of fresh vegetables, rice, beans, and salsa.",
+        "price": 45,
+        "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2013/3/4/1/FNM_040113-Chipotle-Chicken-Burritos-Recipe_s4x3.jpg.rend.hgtvcom.616.462.suffix/1381343667380.jpeg"
+      },
+      {
+        "id": 3,
+        "name": "Chips",
+        "short_description": "Crunchy and addictive: Chipotle's chips, a perfect side for savoring with salsa or guacamole",
+        "price": 15,
+        "image": "https://cdn.vox-cdn.com/thumbor/SbAcIqmQ1W3M3ab-eiAYpDy6qKs=/41x0:711x503/1400x1050/filters:focal(41x0:711x503):format(jpeg)/cdn.vox-cdn.com/uploads/chorus_image/image/49133123/Chipotle_2.0.0.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Quesadillas",
+        "short_description": "Cheesy and savory: Chipotle's Quesadillas, a scrumptious blend of melted cheese and delicious fillings.",
+        "price": 30,
+        "image": "https://www.mybakingaddiction.com/wp-content/uploads/2023/01/chipotle-quesadilla-pieces-700x1050.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Tacos",
+        "short_description": "Mexican flavors wrapped: Chipotle's Tacos, a delightful fusion of tender meat, toppings, and tortillas.",
+        "price": 25,
+        "image": "https://www.macheesmo.com/wp-content/uploads/2011/03/Chipotle-Chicken-Tacos.jpg"
+      }
+    ],
+    "long": 0,
+    "lat": 0
+  },
+  {
+    "id": 125,
+    "imgUrl": "https://logowik.com/content/uploads/images/294_dunkindonuts.jpg",
+    "title": "Dunkin' Donuts",
+    "rating": 4.3,
+    "genre": "Beverages",
+    "address": "390 North St",
+    "short_description": "Dunkin' Donuts, a beloved global brand, brings joy with its extensive menu. Savor a diverse range of freshly brewed coffees, delectable donuts, bagels, and satisfying breakfast sandwiches, making every visit a delightful experience.",
+    "deshes": [
+      {
+        "id": 1,
+        "name": "Americano",
+        "short_description": "Bold and smooth: Dunkin' Donuts' Americano, a rich espresso diluted with hot water, delivering pure coffee goodness.",
+        "price": 35,
+        "image": "https://publish.purewow.net/wp-content/uploads/sites/2/2023/04/keto-at-dunkin-donuts_coffee.jpg?fit=680%2C492"
+      },
+      {
+        "id": 2,
+        "name": "Glazed Donuts",
+        "short_description": "Sweet and delightful: Dunkin' Donuts' Glazed Donuts, a classic treat with a mouthwatering sugary glaze.",
+        "price": 40,
+        "image": "https://hips.hearstapps.com/delish/assets/16/22/1464899252-img-0499.JPG"
+      },
+      {
+        "id": 3,
+        "name": "Muffins",
+        "short_description": "Moist and flavorful: Dunkin' Donuts' Muffins, a delightful assortment of sweet and savory options.",
+        "price": 20,
+        "image": "https://www.snackandbakery.com/ext/resources/NewProducts/2020-02/ProteinMuffin-2.jpg?1582217821"
+      },
+      {
+        "id": 4,
+        "name": "Multigrain Bagel",
+        "short_description": "Decadent morning delight: Dunkin' Donuts' Mutigrain Bagel, a rich and healthy twist to breakfast.",
+        "price": 26,
+        "image": "https://www.nogarlicnoonions.com/images/article_images/old/dunkin-donuts-bagels-lebanon-review152014-11-25-10-07-55.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Expresso",
+        "short_description": "Intense and bold: Dunkin' Donuts' Espresso, a concentrated shot of robust coffee for a pick-me-up.",
+        "price": 15,
+        "image": "https://www.dunkindonuts.com/content/dam/dd/img/menu-redesign-v2/570x570/espresso.png"
+      }
+    ],
+    "long": 0,
+    "lat": 0
+  },
+  {
+    "id": 126,
+    "imgUrl": "https://logowik.com/content/uploads/images/panera-bread3702.jpg",
+    "title": "Panera Bread",
+    "rating": 3.9,
+    "genre": "Continental",
+    "address": "830 Main St",
+    "short_description": "Panera Bread, a beloved bakery-café chain, elevates dining with a menu focused on fresh ingredients and wholesome options. Delight in a wide array of sandwiches, soups, salads, complemented by freshly brewed coffees and teas, creating a comforting and satisfying dining experience.",
+    "deshes": [
+      {
+        "id": 1,
+        "name": "Chipotle Chicken Avocado Melt",
+        "short_description": "Zesty and creamy: Chipotle Chicken Avocado Melt, a delectable sandwich with grilled chicken, chipotle sauce, and avocado.",
+        "price": 60,
+        "image": "https://desirerecipes.com/wp-content/uploads/2022/10/image-98.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Strawberry Poppyseed Salad",
+        "short_description": "Fresh and fruity delight: Strawberry Poppyseed Salad, a refreshing mix of greens, strawberries, and poppyseed dressing.",
+        "price": 55,
+        "image": "https://www.gimmesomeoven.com/wp-content/uploads/2017/04/Strawberry-Salad-Recipe-with-Poppyseed-Dressing-5.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Chicken Caesar Salad",
+        "short_description": "Crisp and savory: Chicken Caesar Salad, a classic blend of romaine, grilled chicken, croutons, and Caesar dressing.",
+        "price": 39,
+        "image": "https://healthyfitnessmeals.com/wp-content/uploads/2020/05/instagram-In-Stream_Square___Low-carb-Caesar-salad-4.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Chicken Soup",
+        "short_description": "Warm and comforting: Chicken Soup, a hearty blend of tender chicken, vegetables, and flavorful broth.",
+        "price": 50,
+        "image": "https://www.licious.in/blog/wp-content/uploads/2020/12/Cream-of-chicken-Soup.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Tomato Basil Bread",
+        "short_description": "Aromatic and savory: Tomato Basil Bread, a delightful artisanal loaf infused with rich tomato and basil flavors.",
+        "price": 40,
+        "image": "https://savortheflavour.com/wp-content/uploads/2021/03/Panera-Tomato-Basil-Bread-Tasty.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Iced Green Tea",
+        "short_description": "Refreshing and revitalizing: Iced Green Tea, a cool and soothing beverage packed with natural antioxidants.",
+        "price": 25,
+        "image": "https://images.food52.com/hWLpGghHYuXwEb7Zm9kWJK8MF_g=/1200x1200/dbe197df-667e-40d9-844d-b574a1a72984--2022-0308_iced-green-tea-final_3x2_james-ransom.jpg"
+      }
+    ],
+    "long": 0,
+    "lat": 0
+  },
+  {
+    "id": 127,
+    "imgUrl": "https://logowik.com/content/uploads/images/dominos-pizza5190.jpg",
+    "title": "Dominos",
+    "rating": 2.5,
+    "genre": "Pizza/Fast Food",
+    "address": "903 Main St",
+    "short_description": "Domino's Pizza, a global sensation, serves up delicious and fresh pizzas with a variety of toppings. Enjoy quick delivery, convenience, and the joy of sharing mouthwatering slices with friends and family.",
+    "deshes": [
+      {
+        "id": 1,
+        "name": "Vegetable Pizza",
+        "short_description": "Veggie-loaded delight: Vegetable pizza, a flavorful medley of fresh toppings on a crispy crust.",
+        "price": 29,
+        "image": "https://static.toiimg.com/thumb/53351352.cms?imgsize=151967&width=800&height=800"
+      },
+      {
+        "id": 2,
+        "name": "Margarita",
+        "short_description": "Simple and classic: Margherita pizza, a mouthwatering blend of tomatoes, mozzarella, and basil on thin crust.",
+        "price": 25,
+        "image": "https://www.abeautifulplate.com/wp-content/uploads/2015/08/the-best-homemade-margherita-pizza-1-4.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Pizza Burger",
+        "short_description": "A scrumptious fusion: Pizza Burger, where the best of pizzas and burgers unite in delicious harmony.",
+        "price": 50,
+        "image": "https://cdn.vox-cdn.com/thumbor/3Q4qUiBlufYCys09TIS4sy63gTc=/295x720:2000x1999/1200x800/filters:focal(295x720:2000x1999)/cdn.vox-cdn.com/uploads/chorus_image/image/50119727/dominos_20pizza_20burger.0.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Bread Sticks",
+        "short_description": "Crunchy and savory: Bread sticks, a delightful accompaniment to savor with dips and sauces.",
+        "price": 15,
+        "image": "https://vegrecipebook.com/wp-content/uploads/2016/10/dominos-garlic-bread-recipe.jpeg"
+      },
+      {
+        "id": 5,
+        "name": "Chiken Pizza",
+        "short_description": "Savory poultry perfection: Chicken pizza, a flavorful combination of succulent chicken and delicious toppings.",
+        "price": 40,
+        "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/216054.jpg?resize=1200:*"
+      }
+    ],
+    "long": 0,
+    "lat": 0
+  },
+  {
+    "id": 128,
+    "imgUrl": "https://logowik.com/content/uploads/images/maxens4732.logowik.com.webp",
+    "title": "Maxens",
+    "rating": 4.7,
+    "genre": "Indian Street Food",
+    "address": "197 Cross st",
+    "short_description": "Step into a world of tantalizing flavors at Maxens, an Indian chaat restaurant. Indulge in an explosion of tastes with savory and spicy chaats, crisp samosas, and refreshing beverages, all in a vibrant and inviting ambiance.",
+    "deshes": [
+      {
+        "id": 1,
+        "name": "Paani Puri",
+        "short_description": "Tangy and delightful: Paani Puri, a popular Indian street food, bursting with spicy and savory fillings.",
+        "price": 10,
+        "image": "https://cdn1.foodviva.com/static-content/food-images/snacks-recipes/pani-puri/pani-puri.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Bhel Puri",
+        "short_description": "Crunchy and zesty: Bhel Puri, a delightful Indian snack with puffed rice, chutneys, and veggies.",
+        "price": 20,
+        "image": "https://www.indianveggiedelight.com/wp-content/uploads/2017/03/bhel-puri-featured.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Dahi Puri",
+        "short_description": "Cool and refreshing: Dahi Puri, a mouthwatering Indian snack with yogurt, chutney, and crispy toppings.",
+        "price": 19,
+        "image": "https://www.spiceupthecurry.com/wp-content/uploads/2015/06/dahi-batata-puri-1.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Vada Pav",
+        "short_description": "Spicy and satisfying: Vada Pav, a beloved Indian street food, with a fried potato patty in a bun.",
+        "price": 20,
+        "image": "https://www.cookwithmanali.com/wp-content/uploads/2018/04/Vada-Pav-500x375.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Pav Bhajji",
+        "short_description": "Buttery and flavorful: Pav Bhaji, a popular Indian street food featuring spicy vegetable mash served with soft buns.",
+        "price": 25,
+        "image": "https://shwetainthekitchen.com/wp-content/uploads/2022/07/Pav-bhaji.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Mixed Chaat",
+        "short_description": "Chaat medley delight: Mixed Chaat, a delicious assortment of savory, tangy, and crunchy Indian snacks.",
+        "price": 35,
+        "image": "https://assets.epicurious.com/photos/60f09a34ae9cc866a51a25d0/16:9/w_1280,c_limit/ChickpeaPotatoChaat_RECIPE_071321_19121.jpg"
+      }
+    ],
+    "long": 0,
+    "lat": 0
+  },
+  {
+    "id": 129,
+    "imgUrl": "https://logos-world.net/wp-content/uploads/2020/06/Chipotle-Logo.png",
+    "title": "Chipotle Mexican Grill",
+    "rating": 4.8,
+    "genre": "Mexican",
+    "address": "390 Frances St",
+    "short_description": "Chipotle Mexican Grill, a taste of fresh, customizable Mexican cuisine. Enjoy flavorful burritos, bowls, tacos, and salads, featuring responsibly sourced ingredients and a variety of mouthwatering salsas and toppings, all prepared with speed and passion.",
+    "deshes": [
+      {
+        "id": 1,
+        "name": "Chicken Bowl",
+        "short_description": "Hearty and flavorful: Chipotle's Chicken Bowl, a delicious blend of grilled chicken, rice, beans, and toppings.",
+        "price": 40,
+        "image": "https://www.thespruceeats.com/thmb/XqGafZJmPK9prSBMa3H0JqsCa-Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/copycat-chipotle-chicken-burrito-bowl-4173869-hero-01-12a58fec59284f0cac31a49a80380fcd.jpg"
+      },
+      {
+        "id": 2,
+        "name": "All Veg Burrito",
+        "short_description": "Veggie-packed goodness: Chipotle's Veg Burrito, a delectable blend of fresh vegetables, rice, beans, and salsa.",
+        "price": 45,
+        "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2013/3/4/1/FNM_040113-Chipotle-Chicken-Burritos-Recipe_s4x3.jpg.rend.hgtvcom.616.462.suffix/1381343667380.jpeg"
+      },
+      {
+        "id": 3,
+        "name": "Chips",
+        "short_description": "Crunchy and addictive: Chipotle's chips, a perfect side for savoring with salsa or guacamole",
+        "price": 15,
+        "image": "https://cdn.vox-cdn.com/thumbor/SbAcIqmQ1W3M3ab-eiAYpDy6qKs=/41x0:711x503/1400x1050/filters:focal(41x0:711x503):format(jpeg)/cdn.vox-cdn.com/uploads/chorus_image/image/49133123/Chipotle_2.0.0.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Quesadillas",
+        "short_description": "Cheesy and savory: Chipotle's Quesadillas, a scrumptious blend of melted cheese and delicious fillings.",
+        "price": 30,
+        "image": "https://www.mybakingaddiction.com/wp-content/uploads/2023/01/chipotle-quesadilla-pieces-700x1050.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Tacos",
+        "short_description": "Mexican flavors wrapped: Chipotle's Tacos, a delightful fusion of tender meat, toppings, and tortillas.",
+        "price": 25,
+        "image": "https://www.macheesmo.com/wp-content/uploads/2011/03/Chipotle-Chicken-Tacos.jpg"
+      }
+    ],
+    "long": 0,
+    "lat": 0
+  },
+  {
+    "id": 130,
+    "imgUrl": "https://logowik.com/content/uploads/images/starbucks-coffee4175.logowik.com.webp",
+    "title": "Starbucks",
+    "rating": 4.4,
+    "genre": "Beverages",
+    "address": "530 Main St",
+    "short_description": "Starbucks, a global coffeehouse chain, brewing the finest coffees and teas. Indulge in a variety of beverages, pastries, and sandwiches, while enjoying a cozy ambiance or a grab-and-go experience at their numerous locations worldwide.",
+    "deshes": [
+      {
+        "id": 1,
+        "name": "Tea Latte",
+        "short_description": "Creamy and soothing: Tea Latte, a comforting blend of steeped tea and velvety milk.",
+        "price": 25,
+        "image": "https://i0.wp.com/thefoodiesfithome.com/wp-content/uploads/2020/12/starbucks-iced-match-green-tea-latte-post.jpg?fit=1026%2C1376&ssl=1"
+      },
+      {
+        "id": 2,
+        "name": "Caramel Frappuccino",
+        "short_description": "Iced caramel delight: Caramel Frappuccino, a sweet and creamy blended coffee beverage topped with caramel drizzle.",
+        "price": 35,
+        "image": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20220323_CaramelFrapp.jpg?impolicy=1by1_wide_topcrop_630"
+      },
+      {
+        "id": 3,
+        "name": "Hot Chocolate",
+        "short_description": "Warm and indulgent: Hot Chocolate, a velvety cocoa delight, perfect for a cozy treat.",
+        "price": 19,
+        "image": "https://www.biggerbolderbaking.com/wp-content/uploads/2016/10/1C5A8344.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Americano",
+        "short_description": "Bold and smooth: Americano, a rich espresso diluted with hot water, delivering pure coffee goodness.",
+        "price": 10,
+        "image": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190607_IcedCaffeAmericano.jpg?impolicy=1by1_wide_topcrop_630"
+      },
+      {
+        "id": 5,
+        "name": "Expresso",
+        "short_description": "Intense and concentrated: Espresso, a powerful shot of coffee, the heart of many coffee creations.",
+        "price": 10,
+        "image": "https://image.cnbcfm.com/api/v1/image/104930929-Starbucks_Blonde_Roast_Espresso.jpg?v=1529477166&w=1600&h=900"
+      },
+      {
+        "id": 6,
+        "name": "Lime Mint Cooler",
+        "short_description": "Refreshing citrus twist: Lime Mint Cooler, a thirst-quenching blend of zesty lime and cooling mint.",
+        "price": 45,
+        "image": "https://cdn.totallythebomb.com/wp-content/uploads/2020/04/8231b9cdb3aa78c7fe1e441fe5053ddd-1-460x700.jpg.webp"
+      }
+    ],
+    "long": 0,
+    "lat": 0
+  },
+  {
+    "id": 131,
+    "imgUrl": "https://logowik.com/content/uploads/images/sushi-roll4765.logowik.com.webp",
+    "title": "Sushi Roll",
+    "rating": 4.5,
+    "genre": "Japanese",
+    "address": "123 Main St",
+    "short_description": "Yo! Sushi is a vibrant Japanese restaurant, offering an exciting fusion of traditional and contemporary flavors. Delight in an array of fresh sushi, sashimi, and delectable dishes, served in a lively, interactive conveyor belt setting, immersing diners in an unforgettable dining experience.",
+    "deshes": [
+      {
+        "id": 1,
+        "name": "Sushi",
+        "short_description": "Delicious bite-sized art: Fresh fish, sticky rice, and vibrant flavors rolled into exquisite sushi creations for an unforgettable experience.",
+        "price": 100,
+        "image": "https://img.freepik.com/free-vector/cute-sushi-salmon-cartoon-vector-icon-illustration-food-character-icon-concept-flat-cartoon-style_138676-2590.jpg?w=2000"
+      },
+      {
+        "id": 2,
+        "name": "Sashimi",
+        "short_description": "Pure elegance on a plate: Finely sliced, premium-grade fish, skillfully presented to savor the delicate flavors of sashimi.",
+        "price": 200,
+        "image": "https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvam9iNjgzLTAxNDcteC5qcGc.jpg?s=J0eVfUZ_ImbWcPEOUDMe9_JeCfNZ-qobxg7LoD2WBwg"
+      },
+      {
+        "id": 3,
+        "name": "Salmon",
+        "short_description": "Luscious and nutritious, salmon is a rich, flavorful fish loved for its versatility and health benefits.",
+        "price": 190,
+        "image": "https://img.freepik.com/premium-vector/fish-fillet-with-greens-potato-slices-dish_81894-6321.jpg?w=2000"
+      },
+      {
+        "id": 4,
+        "name": "Tofu Curry",
+        "short_description": "A harmonious fusion of silky tofu and aromatic spices, creating a delectable and comforting curry dish.",
+        "price": 10,
+        "image": "https://img.freepik.com/premium-vector/national-chinese-cuisine-delicious-tofu-dish-vector-illustration-cartoon-style-can-be-used-menus-recipes-applications_545416-60.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Dumplings",
+        "short_description": "Bite-sized bundles of joy: Dumplings, filled with savory goodness, offering a burst of flavor in every bite.",
+        "price": 10,
+        "image": "https://i.pinimg.com/736x/75/d4/96/75d496fd12770769abe305bfb22e327f.jpg"
+      }
+    ],
+    "long": 0,
+    "lat": 0
+  },
+  {
+    "id": 132,
+    "imgUrl": "https://logowik.com/content/uploads/images/araku-coffee6819.logowik.com.webp",
+    "title": "Araku",
+    "rating": 4.7,
+    "genre": "Indian",
+    "address": "187 Cross st",
+    "short_description": "Experience regal North Indian cuisine at Araku. With a menu fit for royalty, indulge in rich curries, tandoori delicacies, and aromatic biryanis. Immerse yourself in an opulent ambiance and savor the authentic flavors of India.",
+    "deshes": [
+      {
+        "id": 1,
+        "name": "Paneer Butter Masala",
+        "short_description": "Creamy, flavorful Indian delight: Paneer Butter Masala, a vegetarian dish loved for its richness and spices.",
+        "price": 100,
+        "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2020/01/paneer-butter-masala-5.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Garlic Naan",
+        "short_description": "Buttery and aromatic: Garlic Naan, a popular Indian bread infused with garlic flavor, perfect for dipping.",
+        "price": 20,
+        "image": "https://cafedelites.com/wp-content/uploads/2020/06/Garlic-Naan-Recipe-IMAGE-76.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Butter Roti",
+        "short_description": "Soft and buttery Indian staple: Butter Roti, a comforting flatbread complementing any dish with delight.",
+        "price": 19,
+        "image": "https://www.tamarindnthyme.com/wp-content/uploads/2019/09/Soft-Butter-Roti4.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Gobi Fry",
+        "short_description": "Crunchy and spiced: Gobi Fry, a delightful Indian appetizer featuring crispy cauliflower florets bursting with flavor.",
+        "price": 110,
+        "image": "https://i.ytimg.com/vi/AXEzrUVD_XI/maxresdefault.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Dal Thadka",
+        "short_description": "Hearty and aromatic: Dal Tadka, a flavorful Indian lentil dish tempered with spices and herbs.",
+        "price": 90,
+        "image": "https://holycowvegan.net/wp-content/uploads/2015/12/indian-dal-tadka.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Lassi",
+        "short_description": "Refreshing and creamy: Lassi, a traditional Indian yogurt-based drink, a perfect balance of sweet and tangy.",
+        "price": 50,
+        "image": "https://tastedrecipes.com/wp-content/uploads/2022/07/Coconut-Lassi-3-848x424.jpg"
+      }
+    ],
+    "long": 0,
+    "lat": 0
+  },
+  {
+    "id": 133,
+    "imgUrl": "https://logowik.com/content/uploads/images/amul6469.logowik.com.webp",
+    "title": "Amul restraunt",
+    "rating": 4.9,
+    "genre": "Indian",
+    "address": "390 West St",
+    "short_description": "Amul, an Indian delight, invites you on a journey through the flavors of the region. Revel in dosas, idlis, and spicy curries, served with warm hospitality in a vibrant setting.",
+    "deshes": [
+      {
+        "id": 1,
+        "name": "Idli",
+        "short_description": "Steamed and spongy: Idli, a popular South Indian dish made from fermented rice and lentil batter.",
+        "price": 60,
+        "image": "https://www.foodie-trail.com/wp-content/uploads/2021/03/PHOTO-2021-03-01-17-35-19.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Onion Dosa",
+        "short_description": "Thin, savory, and aromatic: Onion Dosa, a delightful South Indian crepe with a delicious onion twist.",
+        "price": 80,
+        "image": "https://i.ytimg.com/vi/TPESttavw9M/maxresdefault.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Masala Dosa",
+        "short_description": "Crispy and flavorful: Masala Dosa, a beloved South Indian delicacy with a spiced potato filling.",
+        "price": 70,
+        "image": "https://static.toiimg.com/thumb/54289752.cms?width=800&height=800&imgsize=495844"
+      },
+      {
+        "id": 4,
+        "name": "Upma",
+        "short_description": "Hearty and comforting: Upma, a flavorful South Indian breakfast dish made from semolina and spices.",
+        "price": 50,
+        "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2009/08/upma-recipe-2.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Mango Juice",
+        "short_description": "Tropical delight in a glass: Mango juice, a luscious and refreshing beverage bursting with natural sweetness.",
+        "price": 30,
+        "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2022/07/Mango-Juice-Recipe.jpg"
+      }
+    ],
+    "long": 0,
+    "lat": 0
+  },
+  {
+    "id": 134,
+    "imgUrl": "https://logowik.com/content/uploads/images/mcdonalds6288.logowik.com.webp",
+    "title": "McDonalds",
+    "rating": 3.9,
+    "genre": "Fast Food",
+    "address": "430 Main St",
+    "short_description": "Quick bites, big flavors: Mcdonads serving a diverse range of tasty burgurs and convenient meals.",
+    "deshes": [
+      {
+        "id": 1,
+        "name": "McAloo Tikki",
+        "short_description": "Indian twist on a classic: McAloo Tikki, a flavorful potato and pea patty burger by McDonald's.",
+        "price": 40,
+        "image": "https://mcdonaldsblog.in/wp-content/uploads/2018/04/McAloo-tikki.jpg"
+      },
+      {
+        "id": 2,
+        "name": "HamBurger",
+        "short_description": "All-American classic: McDonald's hamburger, a delicious and iconic fast-food choice loved worldwide.",
+        "price": 35,
+        "image": "https://people.com/thmb/rkzuOIWafoVchyLmmkMFzR1WDiM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2)/mcdonalds-burger-041423-2-b645d0fbbf7f4dae82f5a70480d75367.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Fries",
+        "short_description": "Golden and crispy: McDonald's fries, the perfect side dish for a savory indulgence.",
+        "price": 19,
+        "image": "https://www.courier-journal.com/gcdn/presto/2023/07/11/USAT/c8ad9d60-35ea-4196-af61-305e39d9b937-8932_MediumFries.uuid.png.coredownload.png"
+      },
+      {
+        "id": 4,
+        "name": "Coke",
+        "short_description": "Refreshing cola bliss: McDonald's Coke, the perfect thirst-quenching companion to your meal.",
+        "price": 10,
+        "image": "https://s7d1.scene7.com/is/image/mcdonalds/mcdonalds-Coca-Cola-Medium-2:1-3-product-tile-desktop?wid=829&hei=515&dpr=off"
+      },
+      {
+        "id": 5,
+        "name": "Chicken Nuggets",
+        "short_description": "Crunchy and savory: McDonald's Chicken Nuggets, a bite-sized delight loved by both kids and adults.",
+        "price": 10,
+        "image": "https://s7d1.scene7.com/is/image/mcdonalds/mcdonalds-20-chicken-mcnuggets:1-3-product-tile-desktop?wid=829&hei=515&dpr=off"
+      },
+      {
+        "id": 6,
+        "name": "McOreo Shake",
+        "short_description": "Indulgent dessert bliss: McOreo, a heavenly McDonald's treat featuring Oreo cookies in delightful combinations.",
+        "price": 45,
+        "image": "https://s7d1.scene7.com/is/image/mcdonalds/oreo-deluxe:1-3-product-tile-desktop?wid=829&hei=515&dpr=off"
+      }
+    ],
+    "long": 0,
+    "lat": 0
+  }
+]

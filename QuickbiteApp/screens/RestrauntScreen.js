@@ -49,9 +49,8 @@ const RestrauntScreen = () => {
         <BasketIcon/>
         <ScrollView>
             <View className = "relative">
-                <Image source ={{
-                    uri: imgUrl
-                }}
+                <Image source ={{uri:imgUrl}
+                }
                 className="w-full h-56 bg-gray-300 p-4"/>
                 <TouchableOpacity 
                 onPress={navigation.goBack}
